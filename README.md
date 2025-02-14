@@ -1,4 +1,6 @@
-# Chat with PDF and DOC using OpenAI
+# Intelligent Document Query Chatbot
+
+Chat with PDF and DOC using OpenAI
 
 <img src="./art/demo.gif?raw=true">
 
